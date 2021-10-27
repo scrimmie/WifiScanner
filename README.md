@@ -26,3 +26,6 @@ Each page for the networks will display the following information about the netw
 > BSSID
 > 
 > Security
+
+To make this more portable you can 3D print a case using the the following parts on thingiverse.
+https://www.thingiverse.com/thing:2209964
